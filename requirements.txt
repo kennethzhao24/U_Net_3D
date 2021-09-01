@@ -1,0 +1,7 @@
+pytorch
+pytroch-lightning
+mrcfile
+pandas
+scikit-image
+scikit-plot
+pycm
