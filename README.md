@@ -1,16 +1,16 @@
-# 3D U-Net with PyTorch-Lightning
+# U-Net 3D with PyTorch Lightning
 
 This repository includes Pytorch-Lightning implementation of 3D U-Net on SHREC2020 (Classification in cryo-electron tomograms) dataset.
 
 ### Installation
 ```
-git clone https://github.com/kennethzhao24/3d_unet_pytorch_lightning
+git clone https://github.com/kennethzhao24/U_Net_3D
 ```
 
 ### Usage
 First download the [SHREC 2020 dataset](www2.projects.science.uu.nl/shrec/cryo-et/). Unzip it and put it in directory '3d_unet_pytorch_lightning/data/shrec2020'
 ```
-cd 3d_unet_pytorch_lightning
+cd U_Net_3D
 pip install -r requirements.txt
 ```
 Before training, first run
